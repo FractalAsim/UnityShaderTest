@@ -34,7 +34,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _Displacement: 0.9865672
-    - _Frequency: 2.5
+    - _Frequency: 11.57
     - _Gain: 0.5
     - _Jitter: 1
     - _Lacunarity: 2
